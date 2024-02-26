@@ -24,7 +24,7 @@ Curently lurning c++ and react
 
 
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me soultwilr@gmail.com
 
