@@ -20,7 +20,8 @@ Curently lurning c++ and react.
 
 
 ## 🛠 Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,cpp&theme=dark)](https://skills.thijs.gg)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 ## Web Development
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,mongodb,react,tailwind,figma)](https://skills.thijs.gg)
 
