@@ -6,7 +6,7 @@
 I started my jurny with core language like C programming\
 Then I started Web development\
 I'm a full stack developer...\
-Curently lurning c++ and react.
+Curently learning c++ and react.
 
 
 
