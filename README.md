@@ -3,11 +3,7 @@
 
 
 # 💫About Me :
-I started my jurny with core language like C programming
-Then I started Web development
-I'm a full stack developer...
-Currently learning c++ and react.
-
+I'm a web developer with a growing passion for crafting engaging digital experiences. With a solid foundation in HTML, CSS, JavaScript, React, and Tailwind CSS, continually learning and improving my front-end development skills. On the back-end,I have experience with Node.js, Express.js, and MongoDB, building efficient and scalable server-side solutions. Currently pursuing an Information Technology degree at DDU, I'm eager to contribute to innovative projects and collaborate with talented individuals in the tech industry.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/soultwilr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keval-chauhan-3571a62b1/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@soultwilr) 
