@@ -29,7 +29,7 @@ I'm a web developer with a growing passion for crafting engaging digital experie
 
 
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning dsa
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me soultwilr@gmail.com
 
