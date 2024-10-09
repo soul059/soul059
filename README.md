@@ -5,7 +5,7 @@
 # 💫About Me :
 I'm a web developer with a growing passion for crafting engaging digital experiences. With a solid foundation in HTML, CSS, JavaScript, React, and Tailwind CSS, continually learning and improving my front-end development skills. On the back-end,I have experience with Node.js, Express.js, and MongoDB, building efficient and scalable server-side solutions. Currently pursuing an Information Technology degree at DDU, I'm eager to contribute to innovative projects and collaborate with talented individuals in the tech industry.
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning dsa
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me soultwilr@gmail.com
 
