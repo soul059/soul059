@@ -22,6 +22,13 @@ I'm a web developer with a growing passion for crafting engaging digital experie
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=soul059&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
+## ⭐Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soul059/soul059/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soul059/soul059/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soul059/soul059/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
