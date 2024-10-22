@@ -3,13 +3,17 @@
 
 
 # 💫About Me :
-I'm a web developer with a growing passion for crafting engaging digital experiences. With a solid foundation in **HTML**, **CSS**, **JavaScript**, **React**, and **Tailwind CSS**, I'm continually learning and improving my front-end development skills. On the back-end, I have experience with **Node.js**, **Express.js**, and **MongoDB**, building efficient and scalable server-side solutions.
+Hey there!
 
-Currently pursuing an **Information Technology** degree at **DDU**, I'm eager to contribute to innovative projects and collaborate with talented individuals in the tech industry.
+I'm a web developer who's all about creating captivating digital experiences. I've got a solid grip on HTML, CSS, JavaScript, React, and Tailwind CSS, and I'm always on the lookout to improve my front-end chops. On the flip side, I've dived into back-end development too, working with Node.js, Express.js, and MongoDB to build efficient and scalable solutions.
 
-- 🌱 I’m currently learning **DSA**
-- 🔍 I’m looking to collaborate on **projects with anyone interested**
-- 📫 How to reach me: [soultwilr@gmail.com](mailto:soultwilr@gmail.com)
+Right now, I'm pursuing an Information Technology degree at DDU, and I'm super eager to jump into innovative projects and team up with like-minded folks in the tech world.
+
+🌱 Currently learning DSA
+
+🤝 Open to collaborating on cool projects
+
+📬 Reach out to me at: soultwilr@gmail.com
 
 ## 🌐Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/soultwilr)
