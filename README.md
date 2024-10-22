@@ -28,8 +28,6 @@ I'm a web developer with a growing passion for crafting engaging digital experie
 [![OS](https://skillicons.dev/icons?i=ubuntu,mint,linux,windows,git,github)](https://skillicons.dev)
 # 💻 Terminal
 [![terminal](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)
-# 🎞 Streaming
-[![youtube](https://skillicons.dev/icons?i=youtube)]([https://discord.gg/soultwilr](https://www.youtube.com/@kevalchauhan1969))
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=soul059&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
