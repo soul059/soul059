@@ -14,10 +14,23 @@ I'm a web developer with a growing passion for crafting engaging digital experie
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keval-chauhan-3571a62b1/)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@soultwilr) 
 
-# 💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,tailwind,js,ts,react,vite,npm,deno,nodejs,express,postman,mongodb,redux,git,github,gcp)](https://skillicons.dev)
-# 💻OS And Code Editor
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,mint,linux,windows,powershell,bash,vscode)](https://skillicons.dev)
+# 👩‍💻 Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,tailwind,js,ts)](https://skillicons.dev)
+# 🚀 Frameworks & Library & Package Manager
+[![fremworks](https://skillicons.dev/icons?i=react,vite,npm,deno,nodejs,express,postman,mongodb,redux)](https://skillicons.dev)
+# ☁ Cloud
+[![cloud](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+# ⚡ Database
+[![DB](https://skillicons.dev/icons?i=mongodb,appwrite,firebase)](https://skillicons.dev)
+# 💻 IDE
+[![ide](https://skillicons.dev/icons?i=vscode,replit)](https://skillicons.dev)
+# 💻 OS & Software 
+[![OS](https://skillicons.dev/icons?i=ubuntu,mint,linux,windows,git,github)](https://skillicons.dev)
+# 💻 Terminal
+[![terminal](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)
+# 🎞 Streaming
+[![youtube](https://skillicons.dev/icons?i=youtube)]([https://discord.gg/soultwilr](https://www.youtube.com/@kevalchauhan1969))
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=soul059&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soul059&theme=tokyonight&hide_border=true)<br/>
