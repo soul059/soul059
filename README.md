@@ -15,24 +15,24 @@ Right now, I'm pursuing an Information Technology degree at DDU, and I'm super e
 
 📬 Reach out to me at: soultwilr@gmail.com
 
-## 🌐Socials
+### 🌐Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/soultwilr)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keval-chauhan-3571a62b1/)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@soultwilr) 
 
-## 👩‍💻 Languages
+### 👩‍💻 Languages
 [![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,html,css,tailwind,js,ts)](https://skillicons.dev)
-## 🚀 Frameworks & Library & Package Manager
+### 🚀 Frameworks & Library & Package Manager
 [![fremworks](https://skillicons.dev/icons?i=react,vite,npm,deno,nodejs,express,mongodb,redux)](https://skillicons.dev)
-## ⚡ Database
+### ⚡ Database
 [![DB](https://skillicons.dev/icons?i=mongodb,appwrite,firebase)](https://skillicons.dev)
-## 💻 OS & Software 
+### 💻 OS & Software 
 [![OS](https://skillicons.dev/icons?i=ubuntu,mint,linux,windows,git,github,postman)](https://skillicons.dev)
-## 💻 Terminal
+### 💻 Terminal
 [![terminal](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)
-## 💻 IDE
+### 💻 IDE
 [![ide](https://skillicons.dev/icons?i=vscode,replit)](https://skillicons.dev)
-## ☁ Cloud
+### ☁ Cloud
 [![cloud](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 
 # 📊GitHub Stats :
