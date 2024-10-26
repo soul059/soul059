@@ -35,22 +35,22 @@ Right now, I'm pursuing an Information Technology degree at DDU, and I'm super e
 ### ☁ Cloud
 [![cloud](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 
-# 📊GitHub Stats :
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=soul059&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soul059&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soul059&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=soul059&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-## ⭐Contribution
+## ⭐ Contribution
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soul059/soul059/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soul059/soul059/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soul059/soul059/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
