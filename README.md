@@ -15,7 +15,7 @@ Right now, I'm pursuing an Information Technology degree at DDU, and I'm super e
 
 📬 Reach out to me at: soultwilr@gmail.com
 
-## 🌐Socials
+# 🌐Socials
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/soultwilr)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keval-chauhan-3571a62b1/)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@soultwilr) 
