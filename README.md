@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+arcade!;Player+One%3A+Web+Developer;Achievement+Unlocked%3A+Full+Stack;Loading+awesome+projects...;Press+START+to+collaborate!" alt="Retro Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+arcade!;Player+One%3A+Web+Developer;Achievement+Unlocked%3A+Full+Stack;Loading+awesome+projects...;Press+START+to+collaborate!" alt="Retro Typing SVG" style="cursor: default;"/>
 
-```
+``` 
 ██╗  ██╗███████╗██╗   ██╗ █████╗ ██╗       
 ██║ ██╔╝██╔════╝██║   ██║██╔══██╗██║       
 █████╔╝ █████╗  ██║   ██║███████║██║       
@@ -165,15 +165,15 @@ DevOps      █████████████████████     
 <table>
 <tr>
 <td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soul059&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=79ff97&title_color=ff6ec7&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
+  <img style="cursor: default;" src="https://github-readme-stats.vercel.app/api?username=soul059&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=79ff97&title_color=ff6ec7&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
 </td>
 <td align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soul059&theme=synthwave&hide_border=true&stroke=79ff97&ring=ff6ec7&fire=ff6ec7&currStreakLabel=79ff97" alt="GitHub Streak" />
+  <img style="cursor: default;" src="https://github-readme-streak-stats.herokuapp.com/?user=soul059&theme=synthwave&hide_border=true&stroke=79ff97&ring=ff6ec7&fire=ff6ec7&currStreakLabel=79ff97" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soul059&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff6ec7&text_color=9f9f9f&bg_color=151515" alt="Top Languages" />
+  <img style="cursor: default;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soul059&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff6ec7&text_color=9f9f9f&bg_color=151515" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -183,7 +183,7 @@ DevOps      █████████████████████     
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soul059&theme=synthwave-84&hide_border=true&area=true" alt="Activity Graph" />
+  <img style="cursor: default;" src="https://github-readme-activity-graph.vercel.app/graph?username=soul059&theme=synthwave-84&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 </details>
@@ -195,7 +195,7 @@ DevOps      █████████████████████     
 ### 🏆 **ACHIEVEMENT UNLOCKED** 🏆
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soul059&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
+  <img style="cursor: default;" src="https://github-profile-trophy.vercel.app/?username=soul059&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -231,7 +231,7 @@ DevOps      █████████████████████     
 └─────────────────────────────────────────────────────┘
 ```
 
-<img src="https://komarev.com/ghpvc/?username=soul059&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+<img style="cursor: default;" src="https://komarev.com/ghpvc/?username=soul059&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
