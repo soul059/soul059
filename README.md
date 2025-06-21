@@ -14,36 +14,33 @@
 
 ---
 
-<div align="center">
+### 👤 User Data
 
-### � **SAVE FILE** �
-
+```json
+{
+  "alias": "Keval Chauhan",
+  "role": "Full Stack Developer",
+  "affiliation": "Student @ DDU",
+  "location": "India",
+  "status": "Active",
+  "directives": [
+    "Digital Experience Creator",
+    "Build Awesome Projects"
+  ],
+  "active_bounty": "Mastering Data Structures & Algorithms",
+  "comlink_status": "Seeking Collaboration Opportunities",
+  "cybernetics": {
+      "expertise": "Frontend + Backend",
+      "hobbies": ["Coding", "Gaming", "Learning"]
+  },
+  "intel": {
+      "education": "Information Technology @ DDU",
+      "fun_fact": "I think in code and dream in pixels",
+      "goals_2025": ["Master DSA", "Build Cool Projects"]
+  },
+  "secure_channel": "soultwilr@gmail.com"
+}
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                           GAME SAVE DATA                             ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  PLAYER: Keval Chauhan                    LEVEL: Student @ DDU       ║
-║  CLASS: Full Stack Developer              LOCATION: India            ║
-║  EXP POINTS: Frontend + Backend           STATUS: Active             ║
-║  SPECIAL ABILITY: Digital Experience Creator                         ║
-║  CURRENT MISSION: Mastering Data Structures & Algorithms             ║
-║  ACTIVE QUEST: Seeking Collaboration Opportunities                   ║
-║                                                                      ║
-║  SAVE DATE: 2025                          PROGRESS: 75% Complete     ║
-║  ACHIEVEMENTS UNLOCKED: Full Stack Developer                         ║
-║  NEXT OBJECTIVE: Build Awesome Projects                              ║
-║                                                                      ║
-║  PLAYER STATS:                                                       ║
-║  • Education: Information Technology @ DDU                           ║
-║  • Hobbies: [Coding, Gaming, Learning]                               ║
-║  • Fun Fact: "I think in code and dream in pixels"                   ║
-║  • 2025 Goals: [Master DSA, Build Cool Projects]                     ║
-║  • Contact: soultwilr@gmail.com                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
 <div align="center">
@@ -63,7 +60,7 @@
 
 ### 🚀 **TECH STACK** 🚀
 
-<details open>
+<details close>
 <summary><h4>💻 Click to explore my technical arsenal</h4></summary>
 <br>
 
@@ -138,10 +135,10 @@
 **💡 Skills Overview**
 
 ```
-Frontend    ████████████████████████████████ 90%
-Backend     ██████████████████████████████   85%
-Databases   ███████████████████████████████  88%
-DevOps      ██████████████████████           75%
+Frontend    █████████████████████████████    80%
+Backend     ███████████████████████████████  90%
+Databases   ██████████████████████████████   85%
+DevOps      █████████████████████            70%
 ```
 
 </div>
