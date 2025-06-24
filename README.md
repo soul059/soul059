@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+arcade!;Player+One%3A+Web+Developer;Achievement+Unlocked%3A+Full+Stack;Loading+awesome+projects...;Press+START+to+collaborate!" alt="Retro Typing SVG" style="cursor: default;"/>
 
+
 </div>
 
 ---
@@ -9,7 +10,9 @@
 
 ```json
 {
+  "alias": "Keval Chauhan",
   "role": "Full Stack Developer",
+  "affiliation": "Student @ DDU",
   "location": "India",
   "status": "Active",
   "directives": [
@@ -37,6 +40,7 @@
 ### 🎮 **CONTACT MENU** �
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/soultwilr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/keval-chauhan-3571a62b1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/@soultwilr)
 [![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:soultwilr@gmail.com)
 
