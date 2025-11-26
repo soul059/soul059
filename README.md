@@ -11,7 +11,7 @@
 
 > CURRENT_STATUS: Typing furiously on a mechanical keyboard to look busy.
 > SPECIAL_SKILL: Calling a syntax error a "security feature."
-> PHILOSOPHY: If it compiles, don't ask questions.
+> PHILOSOPHY: If it compiles, "don't ask questions."
 
 ```
 
