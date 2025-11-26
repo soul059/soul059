@@ -1,26 +1,30 @@
 <div align="center">
 
-### Welcome to my corner of the internet 🌐
+### > INITIALIZING ANONYMOUS SESSION... 📡
 
-![It Ain't Much Meme](https://media.giphy.com/media/1jCs6Doz3WRDYptIlV/giphy.gif)
+![Hackerman Meme](https://i.giphy.com/YQitE4YNQNahy.webp)
 
-### *I write code. Sometimes it even works.* 🤷‍♂️
+### *"I'm in."* (I just used Inspect Element) 🕵️‍♂️
 
 ---
+``` bash
 
-**Current Status:** Converting ☕ Coffee into 🐛 Bugs  
-**Superpower:** Googling the error message  
-**Philosophy:** If it works, don't touch it.
+> CURRENT_STATUS: Typing furiously on a mechanical keyboard to look busy.
+> SPECIAL_SKILL: Calling a syntax error a "security feature."
+> PHILOSOPHY: If it compiles, don't ask questions.
 
-<br>
+```
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 <br>
 
-[📫 Send Help (Contact Me)](mailto:soultwilr@gmail.com)
+![React](https://img.shields.io/badge/>_React-000000?style=flat-square&logo=react&logoColor=00FF41)
+![Node](https://img.shields.io/badge/>_Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF41)
+![Java](https://img.shields.io/badge/>_Java-000000?style=flat-square&logo=java&logoColor=00FF41)
+![Python](https://img.shields.io/badge/>_Python-000000?style=flat-square&logo=python&logoColor=00FF41)
+
+<br>
+
+[> ESTABLISH_SECURE_CHANNEL (Email)](mailto:soultwilr@gmail.com)
 
 </div>
